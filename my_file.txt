@@ -1,0 +1,6 @@
+Hello, this is line 1.
+This is line 2 with a number: 123.
+Line 3: Python is fun!
+Appending line 4.
+Appending line 5 with a number: 456.
+Appending line 6: Keep learning!
